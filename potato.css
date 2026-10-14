@@ -210,22 +210,58 @@ footer {
     font-weight: 400;
     margin: 0;
 }
+
 .header-potato {
-    content: url("potato-header.jpg");
+    background-image: url('potato-header.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 350px;
+    height: 250px;
+    color: transparent;
+    font-size: 0;
 }
 
 .feature-potatoes {
-    content: url("small-potatoes.png");
+    background-image: url('small-potatoes.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 300px;
+    height: 200px;
+    color: transparent;
+    font-size: 0;
 }
 
 .potato-img[alt="Small Potato"] {
-    content: url("small-potato.jpg");
+    background-image: url('small-potato.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 150px;
+    height: 150px;
+    color: transparent;
+    font-size: 0;
 }
 
 .potato-img[alt="Potato pro"] {
-    content: url("potato_pro.jpg");
+    background-image: url('potato_pro.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 150px;
+    height: 150px;
+    color: transparent;
+    font-size: 0;
 }
 
 .potato-img[alt="Potato team"] {
-    content: url("potato-team.jpg");
+    background-image: url('potato-team.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 150px;
+    height: 150px;
+    color: transparent;
+    font-size: 0;
 }
