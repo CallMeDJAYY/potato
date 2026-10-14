@@ -210,3 +210,22 @@ footer {
     font-weight: 400;
     margin: 0;
 }
+.header-potato {
+    content: url("potato-header.jpg");
+}
+
+.feature-potatoes {
+    content: url("small-potatoes.png");
+}
+
+.potato-img[alt="Small Potato"] {
+    content: url("small-potato.jpg");
+}
+
+.potato-img[alt="Potato pro"] {
+    content: url("potato_pro.jpg");
+}
+
+.potato-img[alt="Potato team"] {
+    content: url("potato-team.jpg");
+}
